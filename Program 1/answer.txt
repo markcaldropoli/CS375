@@ -1,0 +1,80 @@
+compile and execute
+(.cpp)
+make
+./program1 -m m_10.txt -p p_10.txt
+cat output.txt
+4 483 4 0.000093000
+testPlayerName0 19 150
+testPlayerName1 27 84
+testPlayerName2 36 160
+testPlayerName3 14 89
+6 469 4 0.000027000
+testPlayerName6 83 48
+testPlayerName7 40 111
+testPlayerName8 15 177
+testPlayerName9 1 133
+
+
+./program1 -m m_20.txt -p p_20.txt
+cat output.txt
+5 483 4 0.000095000
+testPlayerName0 19 150
+testPlayerName1 27 84
+testPlayerName2 36 160
+testPlayerName3 14 89
+15 1347 10 0.005603000
+testPlayerName7 40 111
+testPlayerName8 15 177
+testPlayerName9 1 133
+testPlayerName10 2 179
+testPlayerName12 56 143
+testPlayerName13 60 110
+testPlayerName14 11 166
+testPlayerName17 43 135
+testPlayerName18 67 78
+testPlayerName19 10 115
+
+
+./program1 -m ../out/m_30.txt -p p_30.txt
+cat output.txt
+16 1584 12 0.006320000
+testPlayerName0 19 150
+testPlayerName1 27 84
+testPlayerName2 36 160
+testPlayerName3 14 89
+testPlayerName7 40 111
+testPlayerName8 15 177
+testPlayerName9 1 133
+testPlayerName10 2 179
+testPlayerName11 97 82
+testPlayerName12 56 143
+testPlayerName13 60 110
+testPlayerName14 11 166
+20 2055 18 0.085265000
+testPlayerName0 19 150
+testPlayerName1 27 84
+testPlayerName2 36 160
+testPlayerName3 14 89
+testPlayerName5 92 45
+testPlayerName6 83 48
+testPlayerName7 40 111
+testPlayerName8 15 177
+testPlayerName9 1 133
+testPlayerName10 2 179
+testPlayerName11 97 82
+testPlayerName12 56 143
+testPlayerName13 60 110
+testPlayerName14 11 166
+testPlayerName15 68 50
+testPlayerName17 43 135
+testPlayerName18 67 78
+testPlayerName19 10 115
+
+
+
+(.java)
+The results should be the same.
+
+
+
+
